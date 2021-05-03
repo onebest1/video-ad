@@ -2,9 +2,9 @@
 ||gzads.com^$important
 ||gozendata.com^$important
 ||gz-data.com^$important
-#虎牙p2p
+#虎牙P2P
 ||ppio.cloud^$important
 ||p2p.huya.com^$important
 ||pp.io^$important
-b站p2p
+#B站P2P
 ||chat.bilibili.com^$important
